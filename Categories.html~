@@ -35,55 +35,27 @@
 <a href="Search.html">Search</a>
       </div>
       <div class="row"> <div class="large-5 poem"data-equalizer-watch>
-          <b>Blog Archive<br>
-2016</b>
-RubyConf Kenya 2016
-May 08 2016<br><br>
-
-Comparing Ruby, C, and Go
-Apr 11 2016<br><br>
-
-Ancient City Ruby 2016
-Apr 08 2016<br><br>
-
-Pine64 Quick Start Guide (with Gotchas)
-Apr 04 2016<br><br>
-
-Flourish! 2016 at UIC
-Apr 01 2016<br><br>
-
-How to Build a Successful IoT Company
-Mar 30 2016<br><br>
-
-Chicago Industrial Arts & Design Center
-Mar 17 2016<br><br>
-ConFoo in Montreal
-Feb 26 2016
-
-Git Config for Parallella
-Feb 10 2016<br><br>
-
-BLUE1647, IoT, & ChicagoRuby
-Jan 21 2016<br><br>
-
-Firefox, 404, and lunr.js
-Jan 18 2016<br><br>
-
-Using Failure to Succeed
-Jan 16 2016<br><br>
-
-How to Record Screencasts With or Without QuickTime
-Jan 12 2016<br><br>
-
-How to Make lunr.js and Jekyll Work Together (with Gotchas)
-Jan 04 2016<br><br>
-
-Jekyll + GitHub + lunr.js
-Jan 02 2016<br><br>
+          <b>Blog Categories</b><br><br>
+<a href="#">Arduino</a><br><br>
+<a href="#">Citizen Science With OpenROV</a><br><br>
+<a href="#">Youth Program Recap</a><br><br>
+<a href="#">BeagleBone_Black</a><br><br>
+<a href="#">ESC Programming and Calibration for OpenROV</a><br><br>
+<a href="#">OpenROV Assembly Challenges</a><br><br>
+<a href="#">Citizen Science With OpenROV</a><br><br>
+<a href="#">BeagleBone Black Running Ubuntu: Part2 (Plus Ruby on Rails)</a><br><br>
+<a href="#">BeagleBone Black Running Ubuntu: Part1</a><br><br>
+<a href="#">A Portable Hack for Parallella</a><br><br>
+<a href="#">PechaKucha: Developer Education at TableXI</a><br><br>
+<a href="#">BeagleBone Black, Up & Running</a><br><br>
+<a href="#">Business</a><br><br>
+<a href="#">How to Build a Successful IoT Company</a><br><br>
+<a href="#">Chicago Industrial Arts & Design Center</a><br><br>
+<a href="#">Wrestling With IoT</a><br><br>
 
 
       </div>
-      <div class="large-7 content">&nbsp;
+      <div class="large-7 content"data-equalizer-watch>&nbsp;
     </div>
       </div>
     <script src="js/vendor/jquery.js"></script>
