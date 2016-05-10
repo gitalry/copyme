@@ -17,5 +17,10 @@
 }
 .top a {
 color: white;
+    padding-left: 15px;
+    padding-right: 15px;
 
+}
+.poem{
+    text-align: justify
 }
